@@ -1,0 +1,14 @@
+C:\Users\pleit\Documents\GitHub\IS1-GrupoX-Lab1\IS1-GrupoX-Lab1\bin\Debug\net8.0\IS1-GrupoX-Lab1.exe
+C:\Users\pleit\Documents\GitHub\IS1-GrupoX-Lab1\IS1-GrupoX-Lab1\bin\Debug\net8.0\IS1-GrupoX-Lab1.deps.json
+C:\Users\pleit\Documents\GitHub\IS1-GrupoX-Lab1\IS1-GrupoX-Lab1\bin\Debug\net8.0\IS1-GrupoX-Lab1.runtimeconfig.json
+C:\Users\pleit\Documents\GitHub\IS1-GrupoX-Lab1\IS1-GrupoX-Lab1\bin\Debug\net8.0\IS1-GrupoX-Lab1.dll
+C:\Users\pleit\Documents\GitHub\IS1-GrupoX-Lab1\IS1-GrupoX-Lab1\bin\Debug\net8.0\IS1-GrupoX-Lab1.pdb
+C:\Users\pleit\Documents\GitHub\IS1-GrupoX-Lab1\IS1-GrupoX-Lab1\obj\Debug\net8.0\IS1-GrupoX-Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pleit\Documents\GitHub\IS1-GrupoX-Lab1\IS1-GrupoX-Lab1\obj\Debug\net8.0\IS1-GrupoX-Lab1.AssemblyInfoInputs.cache
+C:\Users\pleit\Documents\GitHub\IS1-GrupoX-Lab1\IS1-GrupoX-Lab1\obj\Debug\net8.0\IS1-GrupoX-Lab1.AssemblyInfo.cs
+C:\Users\pleit\Documents\GitHub\IS1-GrupoX-Lab1\IS1-GrupoX-Lab1\obj\Debug\net8.0\IS1-GrupoX-Lab1.csproj.CoreCompileInputs.cache
+C:\Users\pleit\Documents\GitHub\IS1-GrupoX-Lab1\IS1-GrupoX-Lab1\obj\Debug\net8.0\IS1-GrupoX-Lab1.dll
+C:\Users\pleit\Documents\GitHub\IS1-GrupoX-Lab1\IS1-GrupoX-Lab1\obj\Debug\net8.0\refint\IS1-GrupoX-Lab1.dll
+C:\Users\pleit\Documents\GitHub\IS1-GrupoX-Lab1\IS1-GrupoX-Lab1\obj\Debug\net8.0\IS1-GrupoX-Lab1.pdb
+C:\Users\pleit\Documents\GitHub\IS1-GrupoX-Lab1\IS1-GrupoX-Lab1\obj\Debug\net8.0\IS1-GrupoX-Lab1.genruntimeconfig.cache
+C:\Users\pleit\Documents\GitHub\IS1-GrupoX-Lab1\IS1-GrupoX-Lab1\obj\Debug\net8.0\ref\IS1-GrupoX-Lab1.dll

@@ -1,0 +1,37 @@
+﻿using System;
+
+namespace IS1_GrupoX_Lab1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.OutputEncoding = System.Text.Encoding.UTF8;
+
+            bool salir = false;
+
+            while (!salir)
+            {
+                MostrarMenu();
+                string opcion = Console.ReadLine();
+                Console.WriteLine();
+
+
+                Console.WriteLine();
+            }
+        }
+
+        static void MostrarMenu()
+        {
+            Console.WriteLine("==========================================");
+            Console.WriteLine(" IS1 - GrupoX - Laboratorio 1");
+            Console.WriteLine(" Origen del Software y Control de Versiones");
+            Console.WriteLine("==========================================");
+            Console.WriteLine("0. Salir");
+        }
+
+    
+
+
+    }
+}
